@@ -55,4 +55,4 @@ If you have three monitors and your mouse is on the middle monitor, the left and
 ## Troubleshooting
 
 - **Flickering**: If you experience flickering on the dimmed monitors, try adjusting the transparency level or monitor refresh rates.
-- **Application Not Responding**: Ensure that your Python environment is correctly set up and all required packages are installed.
+
